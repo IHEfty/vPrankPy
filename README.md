@@ -1,4 +1,4 @@
-## Scam Baiter Prototype – Educational Tool
+## vPrankPy/Scam Baiter Prototype – Educational Tool
 
 ### ❗️DISCLAIMER:
 
@@ -8,7 +8,7 @@ This tool is strictly for **educational purposes** and **ethical scambaiting** o
 
 ### 📌 Why I Made This
 
-I was inspired by [Scammer Payback](https://www.youtube.com/c/ScammerPayback), a YouTube channel that fights scammers by turning the tables — exposing and wasting their time to protect innocent people.
+I was inspired by [Scammer Payback](https://www.youtube.com/c/ScammerPayback), a YouTube channel that fights scammers by turning the tables exposing and wasting their time to protect innocent people.
 
 In one of their videos, Scammer Payback showed how they uploaded a file to a scammer's PC to confuse and distract them while deleting stolen data. That gave me the idea to create a harmless prototype that simulates such behavior **auto-play video, disable input, and create distraction** purely for fun and ethical use in a safe, controlled environment.
 
@@ -60,5 +60,5 @@ This tool is only for:
 ### Credits
 
 * Idea: Scammer Payback YouTube Channel
-* Built by: \EmBDbA
+* Built by: \IHEfty
 * Tools: Python 3.13, PyInstaller, Pillow, OpenCV, Keyboard
