@@ -52,7 +52,7 @@ This tool is only for:
 3. Build the EXE:
 
    ```bash
-   pyinstaller --onefile --noconsole --add-data "video.mp4;." --hidden-import PIL --hidden-import PIL.Image --hidden-import PIL.ImageTk man.py
+   pyinstaller --onefile --noconsole --add-data "video.mp4;." --hidden-import PIL --hidden-import PIL.Image --hidden-import PIL.ImageTk main.py
    ```
 
 ---
