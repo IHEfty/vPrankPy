@@ -56,7 +56,19 @@ This tool is only for:
    ```
 
 ---
+### 💸 Donations
 
+Want to support my learning and help me.....
+
+> **Dogecoin address:**
+
+```
+DHERUQ8925qMWCcGzJZQe43E9yEfnpVK3p
+```
+
+Even small tips help me explore more advanced topics like encrypted shells, AV evasion, and secure coding. Thanks! 🚀🐶
+
+---
 ### Credits
 
 * Idea: Scammer Payback YouTube Channel
